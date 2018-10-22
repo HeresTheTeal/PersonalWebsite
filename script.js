@@ -60,7 +60,7 @@ setTimeout(function() {
     deleteContent(function() {
         addContent("a casual coder", function() {
             deleteContent(function() {
-                addContent("in love with Python", function() {
+                addContent("a future law school student", function() {
                     deleteContent(function() {
                         addContent("Andrew");
                     })
